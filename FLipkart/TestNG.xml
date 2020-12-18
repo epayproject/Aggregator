@@ -1,0 +1,11 @@
+<suite name="Flipkart-Testcases">
+<test name="AllTestScenarios">
+<classes>
+<class name="mainTestCases.Flipkart_login"/>
+<class name="mainTestCases.Addtocart"/>
+
+
+</classes>
+</test>
+
+</suite>
